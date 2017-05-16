@@ -1,0 +1,15 @@
+*{
+/*    border: red solid 2px;
+*/    background-color: rgba(0,0,0,0,15);
+}
+
+.learn-to-code-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 425px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+}
+.learn-to-code-con{
+    text-align: center;
+}
